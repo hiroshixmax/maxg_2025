@@ -198,8 +198,7 @@ hide: true
     <div class="submenu">
         <a id="middle" href="https://jasonguan1012.github.io/jgCSA_2025/devops/2024/09/01/APCSAPlanning_IPYNB_2_.html">Planning Page &nbsp; ▶</a>
         <div class="submenu-content">
-            <a href="https://jasonguan1012.github.io/jgCSA_2025/devops/2024/09/01/APCSAPlanning_IPYNB_2_.html">Goals, challenges, Accom.</a>
-            <a href="https://jasonguan1012.github.io/jgCSA_2025/navigation/csa.html">Calendar</a>
+            <a href="https://hiroshixmax.github.io/maxg_2025/navigation/csp.html">Calendar</a>
         </div>
     </div>
     <a id="bottom" href="https://hiroshixmax.github.io/maxg_2025/about/">About Pages</a>
