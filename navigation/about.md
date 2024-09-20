@@ -7,19 +7,19 @@ permalink: /about/
 <!-- Main Container -->
 <div class="about-container" style="max-width: 900px; margin: auto; font-family: 'Arial', sans-serif; line-height: 1.6; color: #f0f0f0; padding: 20px; background-color: #1a1a1a;">
 
-  <!-- Header Section -->
+  <!-- Header Section -->   
   <section class="header" style="text-align: center; margin-bottom: 30px;">
     <h1 style="font-size: 36px; color: #191970;">About Me</h1>
   </section>
 
-<p> The place I lived and my dream place to live.. </p>
+<p> The place's I have lived and my background </p>
 <!-- HTML Structure -->
 <div class="slideshow-container">
   <div class="mySlides">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_the_United_States_%28DoS_ECA_Color_Standard%29.svg" alt="USA Flag" class="slide-img">
     <div class="text">
       <p>USA</p>
-      <p>2019 - Present</p>
+      <p>2008 - Present</p>
     </div>
   </div>
 
@@ -27,23 +27,23 @@ permalink: /about/
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_California.svg" alt="CA Flag" class="slide-img">
     <div class="text">
       <p>California</p>
-      <p>2019 - Present</p>
+      <p>2008 - Present</p>
     </div>
   </div>
 
   <div class="mySlides">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" alt="China Flag" class="slide-img">
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/1200px-Flag_of_Japan.svg.png" alt="China Flag" class="slide-img">
     <div class="text">
-      <p>China</p>
-      <p>2007 - 2019</p>
+      <p>Japan</p>
+      <p>My Mom's side</p>
     </div>
   </div>
 
   <div class="mySlides">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Norway.svg" alt="Norway Flag" class="slide-img">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiP7XaZgvGCN2gHlcNZI21ugVnCdmJsP8yJA&s" alt="Norway Flag" class="slide-img">
     <div class="text">
-      <p>Norway</p>
-      <p>Dream</p>
+      <p>Filipino</p>
+      <p>My Dad's side</p>
     </div>
   </div>
 
@@ -171,13 +171,13 @@ permalink: /about/
   <!-- About Me Section -->
   <section class="about-me" style="display: flex; align-items: center; margin-bottom: 30px;">
     <div style="flex: 2;">
-      <h2 style="font-size: 28px; color: #f0f0f0;">Hey, I'm Jason!</h2>
+      <h2 style="font-size: 28px; color: #f0f0f0;">Hey, I'm Max!</h2>
       <p style="font-size: 18px; margin-top: 10px;">
-        My name is Borui Guan, but I go by Jason. I’m currently a Junior at Del Norte High School. I hope and I will fight for getting all A's in trimester 1.
+        My name is Maxwell Gaudinez, but I go by Max. I’m currently a Junior at Del Norte High School. I hope and I will fight for getting all A's in trimester 1.
       </p>
     </div>
-    <div style="flex: 1; text-align: center;">
-      <img src="https://i.ibb.co/2kGXKP7/2024-08-25-173425.png" alt="My picture" width="150" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.6);">
+     <div style="flex: 1; text-align: center;">
+      <img src="https://i.ibb.co/b3Z8S5w/Screenshot-2024-09-19-224006.png" alt="My picture" width="150" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.6);">
     </div>
   </section>
 
@@ -189,7 +189,7 @@ permalink: /about/
       <li>AP Environmental Science</li>
       <li>AP Computer Science A</li>
       <li>American Literature</li>
-      <li>Offroll</li>
+      <li>AP Psych</li>
     </ul>
   </section>
 
@@ -205,23 +205,22 @@ permalink: /about/
   <section class="fun-facts" style="margin-bottom: 30px;">
     <h3 style="font-size: 24px; color: #191970;">Fun Facts About Me</h3>
     <ul style="font-size: 18px; margin-top: 10px; list-style-type: none;">
-      <li>I can play the flute and have been part of the concert band for 4 years.</li>
-      <li>I moved here 4 years ago but don’t have an accent. (sometimes though)</li>
-      <li>I have a collection of Funko Pops. Check it out below!</li>
+      <li>I love playing video games.</li>
+      <li>I played basketball for 5 years than switch during covid to volleyball</li>
     </ul>
     <div class="slideshow-container">
     <div class="mySlides">
-        <img src="https://i.ibb.co/TMkfZ5g/image.png" alt="Pop Funkos #1" class="slide-img">
+        <img src="https://www.riotgames.com/darkroom/1440/8d5c497da1c2eeec8cffa99b01abc64b:5329ca773963a5b739e98e715957ab39/ps-f2p-val-console-launch-16x9.jpg" alt="Valorant" class="slide-img">
         <div class="text">
         </div>
     </div>
     <div class="mySlides">
-        <img src="https://i.ibb.co/qrJP7c6/image.png" alt="Pop Funkos #2" class="slide-img">
+        <img src="https://www.rockstaracademy.com/lib/images/news/basketball.jpeg" alt="Basketball" class="slide-img">
         <div class="text">
         </div>
     </div>
     <div class="mySlides">
-        <img src="https://i.ibb.co/QQKq6jH/image.png" alt="Pop Funkos #3" class="slide-img">
+        <img src="https://thecapecurrent.com/wp-content/uploads/2023/07/play-volley.jpg" alt="Volleyball" class="slide-img">
         <div class="text">
         </div>
     </div>
@@ -341,158 +340,6 @@ permalink: /about/
   <section class="quote" style="margin-bottom: 30px; text-align: center;">
     <h3 style="font-size: 24px; color: #191970;">Favorite Quote</h3>
     <blockquote style="font-size: 20px; font-style: italic; margin-top: 20px; color: #cccccc; text-shadow: 0 0 8px rgba(136, 188, 76, 0.8), 0 0 12px rgba(136, 188, 76, 0.6);">
-      “Everything will be okay in the end. If it's not okay, it's not the end.” – John Lennon
+      "Life isn't a sprint it's a marathon" -My buddy Kevin Quach
     </blockquote>
   </section>
-
-</div>
-<!-- Quiz Section -->
-<section class="quiz" style="margin-top: 50px; padding: 20px; background-color: #1a1a1a; border-radius: 15px;">
-  <h2 class="quiz-title">Quick Quiz</h2>
-  <form id="quizForm" class="quiz-form">
-    <p class="quiz-question">1. Where did I live from 2007 to 2019?</p>
-    <label><input type="radio" name="q1" value="USA"> USA</label><br>
-    <label><input type="radio" name="q1" value="China"> China</label><br>
-    <label><input type="radio" name="q1" value="Norway"> Norway</label><br><br>
-    <p class="quiz-question">2. Where do I dream of living?</p>
-    <label><input type="radio" name="q2" value="USA"> USA</label><br>
-    <label><input type="radio" name="q2" value="China"> China</label><br>
-    <label><input type="radio" name="q2" value="Norway"> Norway</label><br><br>
-    <button type="button" class="quiz-button" onclick="checkQuiz()">Submit</button>
-  </form>
-
-  <div id="result" class="quiz-result"></div>
-</section>
-
-<style>
-  .quiz-title {
-    color: #191970;
-    text-align: center;
-    font-size: 32px;
-    margin-bottom: 20px;
-    animation: fadeIn 1s ease-in-out;
-  }
-
-  .quiz-form {
-    color: #f0f0f0;
-    font-size: 18px;
-    animation: fadeInUp 1.5s ease-in-out;
-  }
-
-  .quiz-question {
-    font-size: 22px;
-    margin-bottom: 10px;
-    color: #191970;
-    font-weight: bold;
-  }
-
-  .quiz-button {
-    background-color: #191970;
-    padding: 10px 20px;
-    color: #fff;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-    transition: background-color 0.3s ease;
-    font-size: 18px;
-  }
-
-  .quiz-button:hover {
-    background-color: #76a742;
-  }
-
-  .quiz-result {
-    margin-top: 20px;
-    font-size: 22px;
-    color: #191970;
-    text-align: center;
-    opacity: 0;
-    animation: fadeInResult 1.5s ease-in-out forwards;
-  }
-
-  /* Animations */
-  @keyframes fadeIn {
-    from { opacity: 0; }
-    to { opacity: 1; }
-  }
-
-  @keyframes fadeInUp {
-    from {
-      opacity: 0;
-      transform: translateY(20px);
-    }
-    to {
-      opacity: 1;
-      transform: translateY(0);
-    }
-  }
-
-  @keyframes fadeInResult {
-    to {
-      opacity: 1;
-    }
-  }
-        
-  /* From Uiverse.io by mrtqzbek11 */ 
-  button {
-    width: 165px;
-    height: 62px;
-    cursor: pointer;
-    color: #fff;
-    font-size: 17px;
-    border-radius: 1rem;
-    border: none;
-    position: relative;
-    background: #100720;
-    transition: 0.1s;
-  }
-  
-  button::after {
-    content: '';
-    width: 100%;
-    height: 100%;
-    background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(136,188,76,1) 17.8%, rgba(54,99,27,1) 100.2% );
-    filter: blur(15px);
-    z-index: -1;
-    position: absolute;
-    left: 0;
-    top: 0;
-  }
-  
-  button:active {
-    transform: scale(0.9) rotate(3deg);
-    background: radial-gradient( circle farthest-corner at 10% 20%,  rgba(136,188,76,1) 17.8%, rgba(54,99,27,1) 100.2% );
-    transition: 0.5s;
-  }
-
-
-  /* Smooth Radio Buttons Styling */
-  input[type="radio"] {
-    margin-right: 10px;
-    accent-color: #191970;
-    transform: scale(1.5);
-  }
-
-  /* Form Spacing */
-  label {
-    display: block;
-    margin-bottom: 10px;
-  }
-</style>
-
-<script>
-  function checkQuiz() {
-    let score = 0;
-    const answers = {
-      q1: "China",
-      q2: "Norway"
-    };
-    
-    const form = document.getElementById("quizForm");
-    if (form.q1.value === answers.q1) score++;
-    if (form.q2.value === answers.q2) score++;
-    
-    document.getElementById("result").textContent = "You scored " + score + " out of 2. :))";
-  }
-</script>
-

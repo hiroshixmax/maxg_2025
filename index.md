@@ -194,7 +194,7 @@ hide: true
 <div class="paste-button">
   <button class="button">Menu &nbsp; ▼</button>
   <div class="dropdown-content">
-    <a id="top" href="https://jasonguan1012.github.io/jgCSA_2025/devops/tools/home">JavaScript Hack</a>
+    <a id="top" href="https://hiroshixmax.github.io/maxg_2025/devops/2024/09/01/JavaScript_IPYNB_2_.html">JavaScript Hack</a>
     <div class="submenu">
         <a id="middle" href="https://jasonguan1012.github.io/jgCSA_2025/devops/2024/09/01/APCSAPlanning_IPYNB_2_.html">Planning Page &nbsp; ▶</a>
         <div class="submenu-content">
@@ -202,6 +202,6 @@ hide: true
             <a href="https://jasonguan1012.github.io/jgCSA_2025/navigation/csa.html">Calendar</a>
         </div>
     </div>
-    <a id="bottom" href="https://jasonguan1012.github.io/jgCSA_2025/about/">About Pages</a>
+    <a id="bottom" href="https://hiroshixmax.github.io/maxg_2025/about/">About Pages</a>
   </div>
 </div>
