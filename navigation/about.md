@@ -225,7 +225,7 @@ permalink: /about/
         </div>
     </div>
     <div class="mySlides">
-        <img src="https://i.ibb.co/85YWnT9/image.png" alt="Pop Funkos #4" class="slide-img">
+        <img src="" alt="Pop Funkos #4" class="slide-img">
         <div class="text">
         </div>
     </div>
