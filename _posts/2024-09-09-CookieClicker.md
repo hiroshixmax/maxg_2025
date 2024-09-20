@@ -3,8 +3,8 @@ layout: post
 title: CookieClicker 
 description:  ...
 type: ccc 
-courses: {csp: {week: 1}}
 comments: true
+hide: true
 ---
 
 <html lang="en">

@@ -3,9 +3,10 @@ layout: post
 title: Calculator 
 description:  ...
 type: ccc 
-courses: {csp: {week: 1}}
 comments: true
+hide: true
 ---
+
 
 
 <html>
