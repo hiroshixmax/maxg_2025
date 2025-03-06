@@ -92,11 +92,11 @@ h1, h2, h3, h4 {
             </tr>
             <tr>
                 <td>Development Process</td>
-                <td>4.0</td>
+                <td>4.1</td>
             </tr>
             <tr>
                 <td>Feature Implementation</td>
-                <td>2.0</td>
+                <td>1.9</td>
             </tr>
             <tr>
                 <td>Full Stack Demo</td>
